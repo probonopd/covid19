@@ -7,3 +7,9 @@ It may be interesting to compare those numbers
 over time with the figures from sozialministerium.baden-wuerttemberg.de
 
 Data source: https://schwaebische.infogram.com/falle-corona-baden-wurttemberg-1hxr4z1vydoq2yo
+
+
+## Further links
+
+* https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/
+* https://www.swr.de/swraktuell/Karte-Coronavirus-in-Baden-Wuerttemberg-und-Rheinland-Pfalz-Uebersicht,coronavirus-karte-100.html
