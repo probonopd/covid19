@@ -40,12 +40,12 @@ func main() {
 	interestingData := data.FirstChild
 	// fmt.Println(interestingData.InnerText()) // Has all the data we ware interested in
 	nodes := interestingData.ChildNodes()
-	var output string
+	output := "Landkreis,Infections\n"
 	for _, node := range nodes {
 		// fmt.Println(node.InnerText())
 		landkreis := node.FirstChild.InnerText()
 		cases := node.FirstChild.NextSibling.InnerText()
-		output = output + landkreis + ";" + cases + "\r\n"
+		output = output + landkreis + "," + cases + "\n"
 	}
 	fmt.Println(output)
 
