@@ -13,3 +13,4 @@ Data source: https://schwaebische.infogram.com/falle-corona-baden-wurttemberg-1h
 
 * https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/
 * https://www.swr.de/swraktuell/Karte-Coronavirus-in-Baden-Wuerttemberg-und-Rheinland-Pfalz-Uebersicht,coronavirus-karte-100.html
+* https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Archiv.html data per Landkreis but only in a PDF graphic #Neuland
