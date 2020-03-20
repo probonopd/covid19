@@ -1,45 +1,45 @@
-Landkreis,20200317,20200318
-Alb-Donau-Kreis,13,26
-Baden-Baden,7,12
-Biberach,37,37
-Böblingen,9,28
-Bodenseekreis,31,66
-Breisgau-Hochschwarzwald,64,89
-Calw,48,58
-Emmendingen,43,60
-Enzkreis,9,11
-Esslingen,123,128
-Freiburg im Breisgau,64,86
-Freudenstadt,10,10
-Göppingen,29,64
-Heidelberg,3,41
-Heidenheim,21,31
-Heilbronn,50,57
-Heilbronn Stadt,4,9
-Hohenlohekreis,29,151
-Karlsruhe Land,29,47
-Karlsruhe Stadt,14,26
-Konstanz,20,45
-Lörrach,19,27
-Ludwigsburg,38,87
-Main-Tauber-Kreis,31,34
-Mannheim,27,72
-Neckar-Odenwald-Kreis,10,13
-Ortenaukreis,43,49
-Ostalbkreis,78,109
-Pforzheim,6,7
-Rastatt,34,39
-Ravensburg,50,93
-Rems-Murr-Kreis,23,54
-Reutlingen,31,43
-Rhein-Neckar-Kreis,38,109
-Rottweil,4,5
-Schwäbisch Hall,21,48
-Schwarzwald-Baar-Kreis,27,27
-Sigmaringen,16,37
-Stuttgart,60,284
-Tübingen,61,101
-Tuttlingen,7,7
-Ulm,13,19
-Waldshut,5,8
-Zollernalbkreis,33,51
+Landkreis,20200317,20200318,20200319
+Alb-Donau-Kreis,13,26,26
+Baden-Baden,7,12,12
+Biberach,37,37,45
+Böblingen,9,28,28
+Bodenseekreis,31,66,66
+Breisgau-Hochschwarzwald,64,89,101
+Calw,48,58,76
+Emmendingen,43,60,99
+Enzkreis,9,11,21
+Esslingen,123,128,234
+Freiburg im Breisgau,64,86,114
+Freudenstadt,10,10,14
+Göppingen,29,64,64
+Heidelberg,3,41,41
+Heidenheim,21,31,34
+Heilbronn,50,57,110
+Heilbronn Stadt,4,9,9
+Hohenlohekreis,29,151,154
+Karlsruhe Land,29,47,75
+Karlsruhe Stadt,14,26,34
+Konstanz,20,45,45
+Lörrach,19,27,41
+Ludwigsburg,38,87,87
+Main-Tauber-Kreis,31,34,34
+Mannheim,27,72,73
+Neckar-Odenwald-Kreis,10,13,20
+Ortenaukreis,43,49,55
+Ostalbkreis,78,109,123
+Pforzheim,6,7,11
+Rastatt,34,39,64
+Ravensburg,50,93,93
+Rems-Murr-Kreis,23,54,79
+Reutlingen,31,43,43
+Rhein-Neckar-Kreis,38,109,144
+Rottweil,4,5,5
+Schwäbisch Hall,21,48,61
+Schwarzwald-Baar-Kreis,27,27,28
+Sigmaringen,16,37,41
+Stuttgart,60,284,284
+Tübingen,61,101,101
+Tuttlingen,7,7,10
+Ulm,13,19,21
+Waldshut,5,8,8
+Zollernalbkreis,33,51,60
